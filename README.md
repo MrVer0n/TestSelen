@@ -1,5 +1,3 @@
-Admin Panel 
--------
 Selenium Java
 ---
 
